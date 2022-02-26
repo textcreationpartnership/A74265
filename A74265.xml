@@ -1,0 +1,1341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wandering whore continued: Num. 2 A dialogue between Magdalena, a crafty bawd, Julietta, an exquisite whore, Francion, a lascivious gallant, and Gusman a pimping hector. Discovering their diabolical practises at the Half-Crown Chuck-Office. With an additional list of the names of the crafty bawds, common whores, wanderers, pick-pockets, night-walkers, decoys, hectors, pimps and trappanners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74265</idno>
+            <idno type="STC">Thomason E1053_3</idno>
+            <idno type="STC">ESTC P1076</idno>
+            <idno type="EEBO-CITATION">50922811</idno>
+            <idno type="OCLC">ocm 50922811</idno>
+            <idno type="VID">168987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168987)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1053[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wandering whore continued: Num. 2 A dialogue between Magdalena, a crafty bawd, Julietta, an exquisite whore, Francion, a lascivious gallant, and Gusman a pimping hector. Discovering their diabolical practises at the Half-Crown Chuck-Office. With an additional list of the names of the crafty bawds, common whores, wanderers, pick-pockets, night-walkers, decoys, hectors, pimps and trappanners.</title>
+                  <author>Aretino, Pietro, 1492-1556. Puttana errante.</author>
+               </titleStmt>
+               <extent>14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably an English adaptation of: Puttana errante / Pietro Aretino. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitutes in literature --  Early works to 1800.</term>
+               <term>Prostitution --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168987:1" rendition="simple:additions"/>
+            <p>THE Wandring whore CONTINUED: A DIALOGUE BETWEEN
+<list>
+                  <item>
+                     <hi>Magdalena</hi> a Crafty Bawd,</item>
+                  <item>
+                     <hi>Julietta</hi> an Exquiſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e VVhore,</item>
+                  <item>
+                     <hi>Francion</hi> a Laſcivious Gallant,</item>
+                  <item>And <hi>Guſman</hi> a Pimping Hector.</item>
+               </list>
+            </p>
+            <p>Diſcovering their diabolical Practiſes at the Half-crown CHUCK-OFFICE.</p>
+            <p>With a more perfect <hi>LIST</hi> of the names of the Crafty Bawds, Common Whores, Wanderers, Pick-pockets, Night-walkers, Decoys, Hectors, Pimps and Trappanners.</p>
+            <p>Delivered to the Publiſher hereof by a late Hector, ſeveral deep Pyemen, and decayed Gameſters amongſt them.</p>
+            <p>
+               <hi>Sine Cerere &amp; Baccho friget Venus.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168987:2"/>
+            <pb n="3" facs="tcp:168987:2"/>
+            <head>THE <hi>WANDRING WHORE.</hi>
+            </head>
+            <div type="play">
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>HAve you any work for the <hi>Coopers</hi> daughters in <hi>Katherine-wheel</hi> Ally in <hi>Biſhopſgate</hi>-ſtreet, they cure the <hi>Priapiſmus, Satyriaſis,</hi> and <hi>Standing-Ague</hi> infallibly, with an <hi>Univerſal Medicine,</hi> dancing <hi>Bobb-in-jo,</hi> ſtark naked into the bargain: In their abſence (which is ſel<g ref="char:EOLhyphen"/>dom) <hi>Betty Lawrence,</hi> their neighbor and Siſter in iniquity, will ſerve the Cure, ſuffering you to whip the skin off her buttocks, as <hi>Wats</hi> the Hoſier (beſides two others) did, onely paying her Crowns apiece for her patience and puniſhment. All ſuch as are too hot in the God-piece, may have right-cooling <hi>Snow</hi>-water at the New-houſe without the <hi>Poſtern</hi> by <hi>Moor-gate,</hi> the vertues whereof are choice and ſingular, in ſo much that it cures any of the above-mentioned diſtempers, if you take a doſe morning and evening after this man<g ref="char:EOLhyphen"/>ner.</p>
+                  <p>Recipe <hi>Mamillarum duarum manipules duos, ventris inferioris (prope vnlvum) quantitatem ſufficientem, pone linguam intra labra, rem in re, fiat ejectio &amp; mix<g ref="char:EOLhyphen"/>tio ſeminis ſecundum artem.</hi>
+                  </p>
+                  <p>Had this Receit the vertue and quality of curing the French-pox, Running of the Reins, filthy corrupt con<g ref="char:EOLhyphen"/>ſtitutions in the bodyes of our ſociety, it might be put down and received by them for the true <hi>Aqua Mirabilis,</hi> with which, ſhould <hi>Thom. Lawton</hi> in <hi>Petty-France</hi>
+                     <pb n="4" facs="tcp:168987:3"/>but waſh his face with before a Looking-glaſs, he might read the hainouſneſs of his crimes imprinted in his forehead, if he did not expect to ſee old Nicks picture there inſtead of his own: Firſt, for deceiving Mr. <hi>Hodgſon</hi> an honeſt man and lawful husband of an unchaſte wife: ſecondly, for tempting her to be a whore with him, when there is no queſtion but ſhe was ſo with others, for all ſhe cry'd out O! I love that pretty black Rogues face of thine, who for her fact muſt be enrolled with our ſociety, of whom you may read a per<g ref="char:EOLhyphen"/>fect Liſt of names, and Habitations.</p>
+               </sp>
+            </div>
+            <div type="list">
+               <head>A more Perfect Liſt of the names of the Crafty Bauds, Common Whores, Wanderers, Pick-pockets, Night-Walkers, Decoys, Hectors and Trap<g ref="char:EOLhyphen"/>panners, in and about the City, and Sub<g ref="char:EOLhyphen"/>urbs of <hi>London.</hi>
+               </head>
+               <p>
+                  <list>
+                     <head>Crafty Bawds.</head>
+                     <item>
+                        <hi>DAmroſe Page</hi>
+                     </item>
+                     <item>
+                        <hi>Priſs, Fotheringham at the Chuck Office</hi>
+                     </item>
+                     <item>
+                        <hi>Mal. Ceco</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Stone</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Creſwel</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Garriſh</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Habbiger</hi>
+                     </item>
+                     <item>
+                        <hi>Turks head in Moorfields</hi>
+                     </item>
+                     <item>
+                        <hi>Mother Baker</hi>
+                     </item>
+                     <item>
+                        <hi>Su. Lemmon</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Whetſton</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. George</hi>
+                     </item>
+                     <item>
+                        <hi>Mother Lockyer</hi>
+                     </item>
+                     <item>
+                        <hi>Mother Baxter</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Adams</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Salmon</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Saunders</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Kemp</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Abigail</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Simpſon</hi>
+                     </item>
+                     <item>
+                        <hi>Black Pegg</hi>
+                     </item>
+                     <item>
+                        <hi>Doctor Sherleys wife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Dennis</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Glover</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Love</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Buly</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Windbo</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Roberts</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Sammond</hi>
+                     </item>
+                     <item>
+                        <hi>Nel Lawrence</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Woodhurſt</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Lockyer</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Themzin</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Pickering</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Kempſter</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Brooks</hi>
+                     </item>
+                     <item>
+                        <hi>Virginia, going to Hack<g ref="char:EOLhyphen"/>ney</hi>
+                     </item>
+                     <item>
+                        <hi>Grow, white-croſs-ſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Osbeidg, Bedlam</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Gletherel</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Waller, Thomazin in white Chappel</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Thomas, Stepney</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremyes and Servicess</hi>
+                     </item>
+                     <item>
+                        <hi>Booths by Hackney river</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Bull</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Halſpenny</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Harriſon</hi>
+                     </item>
+                     <item>
+                        <hi>Three Sugar-loaves in Grub-ſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Ship, George, and three turns long Ally</hi>
+                     </item>
+                     <item>
+                        <hi>Jones, at the Cock in long Acre</hi>
+                     </item>
+                     <pb n="5" facs="tcp:168987:3"/>
+                     <item>
+                        <hi>Mrs Davies a Midwife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Barber, a Midwife in Holborn</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Howard, in Lincolns In-f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ild</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Hughes</hi>
+                     </item>
+                     <item>
+                        <hi>Mother Cunny</hi>
+                     </item>
+                     <item>
+                        <hi>The Cherry Garden</hi>
+                     </item>
+                     <item>
+                        <hi>Black Swan, in St. Mar<g ref="char:EOLhyphen"/>tins-Le-grand</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oks, Mile-end</hi>
+                     </item>
+                     <item>
+                        <hi>Hanna Hickman, Baud and Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re</hi>
+                     </item>
+                     <item>
+                        <hi>Margaret Leech</hi>
+                     </item>
+                     <item>
+                        <hi>Margery Wilſon</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Page, Old-ſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Price</hi>
+                     </item>
+                     <item>
+                        <hi>Houkins, Baud Paskin, at the Armitage</hi>
+                     </item>
+                     <item>
+                        <hi>Margery Lawton</hi>
+                     </item>
+                     <item>
+                        <hi>Alice Hulburt</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Burges</hi>
+                     </item>
+                     <item>
+                        <hi>Joyce Ebbs</hi>
+                     </item>
+                     <item>
+                        <hi>Nel Yate</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Wellaſton</hi>
+                     </item>
+                     <item>
+                        <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s Stockwel</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Lawton, by Hatton<g ref="char:EOLhyphen"/>w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Ledger</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Sadler</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Gibbins</hi>
+                     </item>
+                     <item>
+                        <hi>Roſe Caddin</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Tilt</hi>
+                     </item>
+                     <item>
+                        <hi>Jane Hayward</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Bennes</hi>
+                     </item>
+                     <item>
+                        <hi>Beſs Mundel, keeps three</hi>
+                     </item>
+                     <item>
+                        <hi>Baudy-houſes in Dogand Bitch-ard</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobs Well, in Jewen<g ref="char:EOLhyphen"/>ſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Evans</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Jones in Croſs-lane</hi>
+                     </item>
+                     <item>
+                        <hi>The Laſt and Lyon, in Eaſt-ſmith-feild.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Common Whores, Wanderers, Pick-pockets and Night-walkers.</head>
+                     <item>
+                        <hi>Mrs. Snow</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Langſden</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Reading</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Edwards</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Holly</hi>
+                     </item>
+                     <item>
+                        <hi>Mal. Nun</hi>
+                     </item>
+                     <item>
+                        <hi>Welſh Nan</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Avory</hi>
+                     </item>
+                     <item>
+                        <hi>Esther Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Love</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Warren</hi>
+                     </item>
+                     <item>
+                        <hi>Nell Gulliford</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah &amp; Nan Fullam</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Yong</hi>
+                     </item>
+                     <item>
+                        <hi>Faith Clayton</hi>
+                     </item>
+                     <item>
+                        <hi>— Croſs</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Orange</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Curtes</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Laurence</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Honor</hi>
+                     </item>
+                     <item>
+                        <hi>Queen of Morocc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Holliland</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Diamond</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Sherley the yonger</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Smith</hi>
+                     </item>
+                     <item>
+                        <hi>Jane Stamford</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Spencer</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Taverner</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Marten</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Watſon</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Berry</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Green</hi>
+                     </item>
+                     <item>
+                        <hi>Green Mall,</hi> alias <hi>Joan Godfrey</hi>
+                     </item>
+                     <item>
+                        <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l Chauncy</hi>
+                     </item>
+                     <item>
+                        <hi>Ketty Cox</hi>
+                     </item>
+                     <item>
+                        <hi>Moll Hegg</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Horſfield</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Savory</hi>
+                     </item>
+                     <item>
+                        <hi>Peg Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Alice Spilman</hi>
+                     </item>
+                     <item>
+                        <hi>Kate Hare</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Tremain</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs. Weſtover, Band<g ref="char:EOLhyphen"/>ſtring-ſeller to the Offices in Chauncery-lane</hi>
+                     </item>
+                     <item>
+                        <hi>Peg Croſs</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Bret</hi>
+                     </item>
+                     <item>
+                        <hi>Urſula Higgins</hi>
+                     </item>
+                     <item>
+                        <hi>Betty White</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Farmer</hi>
+                     </item>
+                     <item>
+                        <hi>Margery Noble</hi>
+                     </item>
+                     <item>
+                        <hi>Jane Dixon</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Peak</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah Martin</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Gl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſcock</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Mate</hi>
+                     </item>
+                     <item>
+                        <hi>Toothleſs Betty</hi>
+                     </item>
+                     <item>
+                        <hi>Beſs Goring</hi>
+                     </item>
+                     <item>
+                        <hi>Grizzel Wood</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Cupid</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Grey</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Cooper</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Cooper</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Ames</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Wats</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Bates</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Eton</hi>
+                     </item>
+                     <item>
+                        <hi>Mal. Bell</hi>
+                     </item>
+                     <item>
+                        <hi>Butter and Eggs</hi>
+                     </item>
+                     <item>
+                        <hi>Jane Thebey</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Fink</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Baxter</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Gansford</hi>
+                     </item>
+                     <pb n="6" facs="tcp:168987:4"/>
+                     <item>
+                        <hi>Black Betty</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Taylor</hi>
+                     </item>
+                     <item>
+                        <hi>Beck Lunn</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Love</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Lote</hi>
+                     </item>
+                     <item>
+                        <hi>Beſs Whittle</hi>
+                     </item>
+                     <item>
+                        <hi>Beſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Bluns</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Simmonds</hi>
+                     </item>
+                     <item>
+                        <hi>Bet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y Downes</hi>
+                     </item>
+                     <item>
+                        <hi>Luce Brook</hi>
+                     </item>
+                     <item>
+                        <hi>Nel Syder</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Craford</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Bell</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Wood</hi>
+                     </item>
+                     <item>
+                        <hi>Mal Roſe</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Blower pocky</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Poulter,</hi> alias <hi>Ulls</hi>
+                     </item>
+                     <item>
+                        <hi>Fayth Anderton</hi>
+                     </item>
+                     <item>
+                        <hi>Dutch Whore</hi>
+                     </item>
+                     <item>
+                        <hi>Wilkis a weavers Wife at ſmock Ally-end</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>awes</hi>
+                     </item>
+                     <item>
+                        <hi>Denues wife in Shoreditch</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Sw<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ls maid Beſs</hi>
+                     </item>
+                     <item>
+                        <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oy</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lls Daughters</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Bourn a Scribes wife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Tippit</hi>
+                     </item>
+                     <item>
+                        <hi>Shards wife in Dunning-Alley</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Mails by the Cur<g ref="char:EOLhyphen"/>tain Play-houſe</hi>
+                     </item>
+                     <item>
+                        <hi>Su Hedge</hi>
+                     </item>
+                     <item>
+                        <hi>Jone Thorn at Newington butts</hi>
+                     </item>
+                     <item>
+                        <hi>Enſign Webſters wife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Harfed — Robinſon, Woodſt Compter</hi>
+                     </item>
+                     <item>
+                        <hi>Mr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Sweetman</hi>
+                     </item>
+                     <item>
+                        <hi>Long-haird M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s Spencer in Spittle-fields</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Wroth, Grubſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Phillips</hi>
+                     </item>
+                     <item>
+                        <hi>Peg Angel</hi>
+                     </item>
+                     <item>
+                        <hi>Greens Satchel —</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Roſe</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Raſh</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Knight</hi>
+                     </item>
+                     <item>
+                        <hi>Su Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>is</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Braithwait</hi>
+                     </item>
+                     <item>
+                        <hi>Boulrun the bayliffs wife</hi>
+                     </item>
+                     <item>
+                        <hi>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l Martins wife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Franſces,</hi> alias <hi>M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Robinſon</hi>
+                     </item>
+                     <item>
+                        <hi>Pim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Hollilands Poekey pug-naſty</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Spicer in Mobb-lane,</hi> alias <hi>Browns</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>-m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>roy</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Carr in Roſe-lane</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Banſly</hi>
+                     </item>
+                     <item>
+                        <hi>Tanners wife Wheeler ſtr.</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Di<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Jone Gliſſon,</hi> alias <hi>Roberts</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Evitt</hi>
+                     </item>
+                     <item>
+                        <hi>Tracyes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ife</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Taverner Wheeler<g ref="char:EOLhyphen"/>ſtreet</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Rigs</hi> alias <hi>Robin<g ref="char:EOLhyphen"/>ſon, a thieving whore</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Wilſon</hi>
+                     </item>
+                     <item>
+                        <hi>— King</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah Price</hi>
+                     </item>
+                     <item>
+                        <hi>Kate Wilkinſon</hi>
+                     </item>
+                     <item>
+                        <hi>Grace Steel</hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Smith</hi>
+                     </item>
+                     <item>
+                        <hi>Betty Blunt</hi>
+                     </item>
+                     <item>
+                        <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ry De-gret, Mobb to Tho. Crouch</hi>
+                     </item>
+                     <item>
+                        <hi>Allice Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Mall Cole</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Lowe</hi>
+                     </item>
+                     <item>
+                        <hi>— Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Paget</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Cadman</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah &amp; Joyce Price</hi>
+                     </item>
+                     <item>
+                        <hi>Beſs Cox</hi>
+                     </item>
+                     <item>
+                        <hi>Cock Birch</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah Boſtwid</hi>
+                     </item>
+                     <item>
+                        <hi>Jone Bonner</hi>
+                     </item>
+                     <item>
+                        <hi>Jone Bouden</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Southern</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Palmer</hi>
+                     </item>
+                     <item>
+                        <hi>Silver-lac't Beſs</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Ouden</hi>
+                     </item>
+                     <item>
+                        <hi>Fair Roſamond</hi>
+                     </item>
+                     <item>
+                        <hi>Suger-C — a conſtant wanderer &amp; night-wal<g ref="char:EOLhyphen"/>ker</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Dedman</hi>
+                     </item>
+                     <item>
+                        <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g Hodgſon</hi>
+                     </item>
+                     <item>
+                        <hi>Nan Stephens</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah Blades</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Bliſs</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Ruſſel</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs Sherman</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs King a Sempſtreſs.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Decoys, Hectors, and Trapanners.</head>
+                     <item>
+                        <hi>ARmſtrong</hi>
+                     </item>
+                     <item>
+                        <hi>Pet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Hurſt</hi>
+                     </item>
+                     <item>
+                        <hi>Wil Taverner</hi>
+                     </item>
+                     <item>
+                        <hi>Dick Cartwright</hi>
+                     </item>
+                     <item>
+                        <hi>George Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Barret</hi>
+                     </item>
+                     <item>
+                        <hi>Holliland, a great Cheat</hi>
+                     </item>
+                     <item>
+                        <hi>Gladwin, an ignorant whelp</hi>
+                     </item>
+                     <item>
+                        <hi>Len. Langſden</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Stern</hi>
+                     </item>
+                     <item>
+                        <hi>Barr</hi>
+                     </item>
+                     <item>
+                        <hi>Higgins</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Dodſon</hi>
+                     </item>
+                     <pb n="7" facs="tcp:168987:4"/>
+                     <item>
+                        <hi>Nat Lummocks, Apoth.</hi>
+                     </item>
+                     <item>
+                        <hi>Anniſeed Robbin</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Naſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Man Middleton</hi>
+                     </item>
+                     <item>
+                        <hi>Frank Aſhburn</hi>
+                     </item>
+                     <item>
+                        <hi>Jack Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Wat. Gulliford</hi>
+                     </item>
+                     <item>
+                        <hi>Carter, Rabbit-ſeller</hi>
+                     </item>
+                     <item>
+                        <hi>Dick. de Lane</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Cecks</hi>
+                     </item>
+                     <item>
+                        <hi>Robin Thrower</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Rand</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Merrit</hi>
+                     </item>
+                     <item>
+                        <hi>Wat. Stainton.</hi>
+                     </item>
+                     <item>
+                        <hi>Ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n, Trump-alley</hi>
+                     </item>
+                     <item>
+                        <hi>Crone</hi>
+                     </item>
+                     <item>
+                        <hi>Green by Newgate</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Martin Vintner</hi>
+                     </item>
+                     <item>
+                        <hi>Pimp Skipwith.</hi>
+                     </item>
+                     <item>
+                        <hi>Ned Brooks</hi>
+                     </item>
+                     <item>
+                        <hi>Tracy a Hector</hi>
+                     </item>
+                     <item>
+                        <hi>Brown a Chyrurgion</hi>
+                     </item>
+                     <item>
+                        <hi>Ratford a Trooper</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Player</hi>
+                     </item>
+                     <item>
+                        <hi>Ned Traford</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Bird</hi>
+                     </item>
+                     <item>
+                        <hi>Will Doſſel</hi>
+                     </item>
+                     <item>
+                        <hi>Will Uſius</hi>
+                     </item>
+                     <item>
+                        <hi>Jack Daines</hi>
+                     </item>
+                     <item>
+                        <hi>Taylor the Prigg</hi>
+                     </item>
+                     <item>
+                        <hi>Little Taffy</hi>
+                     </item>
+                     <item>
+                        <hi>Sam Pink, a ſlovenly pimp</hi>
+                     </item>
+                     <item>
+                        <hi>James at Dog-yard</hi>
+                     </item>
+                     <item>
+                        <hi>Gundamore</hi>
+                     </item>
+                     <item>
+                        <hi>Shatterwait, ſcribe</hi>
+                     </item>
+                     <item>
+                        <hi>Hopper, Writing-maſter</hi>
+                     </item>
+                     <item>
+                        <hi>Winch the Nailer</hi>
+                     </item>
+                     <item>
+                        <hi>Jack Berry, &amp; Jack Harris Billiard-players</hi>
+                     </item>
+                     <item>
+                        <hi>Pimp Howard</hi>
+                     </item>
+                     <item>
+                        <hi>Fair Roſamonds pimp</hi>
+                     </item>
+                     <item>
+                        <hi>George Paskins, a Kid-<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>iber, at the Crooked-billet at the Armitage</hi>
+                     </item>
+                     <item>
+                        <hi>Pimp Glover</hi>
+                     </item>
+                     <item>
+                        <hi>Jack Gould</hi>
+                     </item>
+                     <item>
+                        <hi>Jack Wallis</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Aſhington,</hi> alias <hi>Shitten-arſe, Grocer</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ebbs</hi>
+                     </item>
+                     <item>
+                        <hi>Dick Steckwel</hi>
+                     </item>
+                     <item>
+                        <hi>Will Ledger</hi>
+                     </item>
+                     <item>
+                        <hi>Will Sadler</hi>
+                     </item>
+                     <item>
+                        <hi>Wat. Gibbins</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Hayward</hi>
+                     </item>
+                     <item>
+                        <hi>C— Jackson</hi>
+                     </item>
+                     <item>
+                        <hi>Pimp Sherman</hi>
+                     </item>
+                     <item>
+                        <hi>Hammond</hi>
+                     </item>
+                     <item>
+                        <hi>Will Gill</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="play">
+               <sp>
+                  <speaker>Francion.</speaker>
+                  <p>Many of theſe are new Madams to me, but old Traders no queſtion with others, I'le viſit their Quarters one after another, though I'me clapp't three times over with the Pox, and ſo become a Gentleman, but hear me Seignior <hi>Guſman,</hi> do'ſt know Mrs. <hi>G</hi>— neer the Coffee-houſe in the <hi>Poſtern</hi> by <hi>More-gate?</hi> there's a tearing Girl with Silver-lace upon her Petti<g ref="char:EOLhyphen"/>coat a Quarters bredth, with Lemmon-colour'd Rib<g ref="char:EOLhyphen"/>bins a-la-mode-france, with Pendants in her eares, neck-lace of counterfeit pearl, and dreſs't with a Caul in her hair.</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>Know her! There's ſcarce a Baudy-houſe, whore, or Hector in <hi>London</hi> but I either know of them, or will know them, by ſuch as keep them Company, one of them told me, that after <hi>G</hi>—had faln to decay
+<pb n="8" facs="tcp:168987:5"/>in his own trade, his wife ſet up her's by opening her fore doores, and lying backwards, for ſufferance where<g ref="char:EOLhyphen"/>of this Cornudo had two ſhillings and ſix-pence a time payed by his wife, who handled the theorick and practick part with ſuch free will that by her Report her husband received ſeventeen Half-crowns for his part in one day, beſides ſome over-plus Knocks ſhe never reckoned to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Francion.</speaker>
+                  <p>Had I known this ſtory before-hand, I would never have ventured in her <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Low-country, though ſhe would have payd me for the drudgery; for, the Cat-ey'd Cullinder-fac'd Gipſy is onely plea<g ref="char:EOLhyphen"/>ſing to the eye in her trick't-up bravery <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a diſtance, and rough s<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in'd in her Embr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces as the Sun-burnt Portugal; there's the Governeſs of the Chuck Office has been far handſomer, till <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> had her under his Cure of the Pox: I was told by one <hi>Hurſt</hi> a Farrier by <hi>Finsbury</hi> and diverſe others, that <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>riſs,</hi> ſtood upon her head with naked breech &amp; belly whilſt four Cully<g ref="char:EOLhyphen"/>rumpers chuck't in ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>teen Half-crowns into her Comodity: I fear the foul diſeaſe is ſo deeply rooted in her rotten husband, (as appears by his ſtaff ſince he was at <hi>Enfield,</hi>) that he will ſhortly be put in the Bill of Mortality: to prevent which, I adviſe him to enter <hi>Kings-land</hi> Hoſpital, and there make his laſt Will and Teſtament, leaving the Eſtate he hath got by Fools, Whores, and Rogues, to ſome of his own profeſſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>It's a true Proverb, (and as often ſeen verified amongſt us, as upon any other perſons in the world,) that ill-gotten Goods never proſper, and though his gettings have been inordinate, his Expen<g ref="char:EOLhyphen"/>ces have over-ballanc't them, ſo that his eſtate will
+<pb n="9" facs="tcp:168987:5"/>quickly be numbred, and as ſuddenly diſtributed: If you fancy variety of faces, Mounſieur <hi>Francion,</hi> viſit the Cherery-garden, Hatton-wall, Blomesbury, Deury-lane, Dog and Birch yard, Fleet-lane, Turn<g ref="char:EOLhyphen"/>ball-ſtreet, Roſemary lane, long Acre, Lincolns-in<g ref="char:EOLhyphen"/>fields; Spittle-fields, Wheeler-ſtreet, Mobb-lane, Smock-ally, the Row at the ſix Windmills, Petticoat<g ref="char:EOLhyphen"/>lane, Dunnings-ally, Long-ally, More-fields, Cheap<g ref="char:EOLhyphen"/>ſide, Cornhill, Leaden-hall-ſtreet, <hi>&amp;c.</hi> Where when you meet with a complete luſty Girl to your minde, ſay with the witty wanton Poet;</p>
+                  <q>
+                     <l>Let me thy naked parts feel without light</l>
+                     <l>And with ſweet ſports protract the pleaſing night.</l>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>Francion.</speaker>
+                  <p>I have rang'd thorough moſt of thoſe quarters already for a freſh C—for,</p>
+                  <q>
+                     <l>Love hath wings, and loves to range,</l>
+                     <l>And I love thoſe that love to change.</l>
+                  </q>
+                  <p>Therefore if thou canſt do the buſineſs, here's a Crown, an Angel, a Pound, nay, Five pounds for a pnre untoucht Maiden-head: for I am even ſurfeited with Citizens wives, who are eager after <hi>S</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>I can do the feat for you, paying well be<g ref="char:EOLhyphen"/>fore-hand, onely adviſing with <hi>Magdalena</hi> a little, therefore whether will you have a black, brown, flax<g ref="char:EOLhyphen"/>en, tall, ſhort, ſlender, thick, fat, or lean wench to try your valor on?</p>
+               </sp>
+               <sp>
+                  <speaker>Francion.</speaker>
+                  <p>I won't have her clarifi'd or pockiſi but a pure maid, ſuch as was py'd by her Mr. the <hi>B</hi>—in the Truckle-bed, nor ſuch as <hi>In bred Spend-all</hi> in <hi>Throckmorton-ſtreet,</hi> trades with neer the Chuck-Office,
+<pb n="10" facs="tcp:168987:6"/>(when he ſhould be at Church,) or in the uſur<g ref="char:EOLhyphen"/>ers walk, not playing at Bobb-cherry with his maid the Tell-tale, nor ſuch a one as old <hi>Salmons</hi> maid, who whilſt her Mr. wooed to enter her fort, ſhe ſtood upon her guard, and called Corporal, bidding him ſtand off with a Pox of his P—in his hand</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Thou haſt been pretty punctual in thy obſervations as to the names, perſons, and places where our ſociery and retinue reſoit, but there are other re<g ref="char:EOLhyphen"/>markable perſons, ſuch as your running-Bauds, Kid-Nappers, your he and ſhe-Shop lifters, and your foy<g ref="char:EOLhyphen"/>lers, who are forgotten amongſt us; there's old <hi>Dam<g ref="char:EOLhyphen"/>roſe Page</hi> has got many a pound by it, therefore let us not looſe the benefit of their Acquaintance, we may chance to buyld a Hoſpital, at our own proper-coſt and charges, as well as ſhe did Houſes in <hi>Radcliff-high<g ref="char:EOLhyphen"/>way.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>That I have ready for you already, which I ſhall put in rank and file againſt our next meeting: For by the advice of one of their own ſociety, I took a rough draught of them, from the Collectors Lift for Pole-mony about Dog and Bitch-yard, Turnbull<g ref="char:EOLhyphen"/>ſtreet, Creſs-lane, with other their Rendezvouzes, and you ſhall not ſail of them, ſuch as Will, and Beſs Cox, Beſs Norgate, Amy Butler, Peter Goodjeway, and Thom. Orrel, with divers others of whom you ſhall ſhortly hear more in the ſtrange and true Conference between Damroſe Page and Priſs Fotheringham du<g ref="char:EOLhyphen"/>ring their Impriſonment in <hi>Newgate,</hi> &amp;c. With the manner of Hammonds erecting of the Prick-Office at the Laſt and Lyon in <hi>Eaſt-ſmith-field.</hi> It will be very proper to have an additional Liſt of the names, of our
+<pb n="11" facs="tcp:168987:6"/>deepeſt Pyemen and decayed Occupiers, whoſe names may ſtand upon record amongſt us, as the Benefactors in St. <hi>Bartholomews Hoſpital,</hi> as good Examples fot others. <hi>But looſe not an opportunity which is now offered</hi> in the preſence of your conſtant Cully, and deep Pyeman <hi>Francion:</hi> His teeth water for a new face, mony and Cunny are good Commodities.</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Show him into a convenient Room, and end in Mrs. <hi>Cupid,</hi> the Dutch whore, fair <hi>Roſamond,</hi> Sugar C—who are all as good Maids as any uſe to be after thirteen amongſt us, and let him make his own choice, and I will have my own Price, be diligent in your attendance, carrying Wine and Tobacco, whe<g ref="char:EOLhyphen"/>ther they call or no, come he muſt pay for't, trading's dead and little, make large improvement on't when 'tis offered.</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>Should we once leave our old Cuſtome of Chearing, our beſt (as well as worſt) Cullies, we muſt leave off to live, but hang Conſcience and honeſty, 'tis abſur'd policy, diſhoneſt actions are proper with other Perſons, in other places, and for our profit, diſhonſty with Riches is honeſty, honeſty with Poverty is diſ<g ref="char:EOLhyphen"/>honeſty, all people know that to be as true as that St. <hi>George</hi> killed the Dragon: they muſt therefore finde it, if not expect it, for we have devices and ſubtilties far exceeding the Mountebanks Orbiton or Balſam, that were our Girles C — as large as Satchel C— <hi>Greens</hi> wife who has both holes broken into one, we can reduce thoſe preternatural defects, to their Priſtine poſture and conſtitution.</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Thou ſay'ſt true <hi>Guſman,</hi> beware the four wenches ſmell not rammiſh (as all whores do) un<g ref="char:EOLhyphen"/>der
+<pb n="12" facs="tcp:168987:7"/>their Armpits, or have any Crablice breeding there for fear of diſcovering the loſs of their Maiden-heads, but give them Inſtructions to paint, Powder, and per<g ref="char:EOLhyphen"/>fume their clothes and carkaſſes, have fine clean Hol<g ref="char:EOLhyphen"/>land-ſmocks, kiſs with their mouths open, put their tongues, as all wantons do, in his mouth, and ſuck it, their left hand in his Cod-piece, the right hand in his Pocket, commend his Trap ſtick, pluck their coats above their thighes, their ſmocks above their Knees, bidding him thruſt his hand to the beſt C — in chri<g ref="char:EOLhyphen"/>ſtendom, tickling the Knobs thereof till they burſt out with laughing, as W — the Butchers ſon in the Stocks did <hi>Honor Brooks</hi> the rammiſh Scotch whore at D — between her Legs, not forgetting that <hi>Urſula</hi> had half a crown for ſhowing her Twit-twat there, and half a crown for ſtroaking the marrow out of a mans Griſtle: but ſtay <hi>Guſman</hi> read the Proclamation ere you go.</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>O Yes! O Yes! O Yes! Any man or woman, in City or in Country, that will ſee an Ugly ſhe-monſter of deformed ſhape, impudent and brazen<g ref="char:EOLhyphen"/>fac't carriage, uncivil behaviour, filthy conſtitutions, and preternatural diſpoſition in her body, grindes Gin<g ref="char:EOLhyphen"/>ger in her a—hole betwixt her buttocks, and by that means hath weakned the retentive faculty in her poſte<g ref="char:EOLhyphen"/>riors, to the p — and ſ — of her fleſh-ſtocks, Let all ſuch as fear not the loſing of their Eye-ſight, come put in their noſe, as <hi>Chaucers</hi> twelve Fryers did at the dividing of a fart amongſt them, and they may have it of a ſluttiſh wench at the ſign of, <hi>Have you any wood to cleave,</hi> &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Well, Ile ſend her all the Hectors, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oaring Trappanners that love picking of wenches
+<pb n="13" facs="tcp:168987:7"/>plackets more then Pockets to plague the jade, unleſs ſhe enters her name amongſt us; come <hi>Julietta,</hi> what obſervations were omitted concerning your venetian practiſes in our firſt days diſcou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe, deliver me and this auditory a true and brief account.</p>
+               </sp>
+               <sp>
+                  <speaker>Julietta.</speaker>
+                  <p>Our rules amongſt us, are with much ſtrictneſs obſerved, for paying an annual tribute to the Senate, we have as ſecure protection as any people in the Dukedom of <hi>Venice,</hi> no Tax or impoſition exceed<g ref="char:EOLhyphen"/>ing ours in quantity, and what children are got in Baſtardy amongſt us, are educated at their charge, if you are but minded to go to a certain ſtately buylding, where is a grate, and one continually there placed to receive it in, the Prieſts have a place peculiar to them<g ref="char:EOLhyphen"/>ſelves, for what Brats they get are carried elſe where, where on the outſide of the wall, hangs a rope with a basket at the end on't, where they are drawn up in a basket, if you ring the Bell, which hangs cloſe by: if any Merchant, Gentleman or others, leave his ſlipper at the door, whilſt he is with us, none dares to enter amongſt us, for we have our Ruffians (ſuch as your Hectors) that will tear the nations, this Cuſtom's as or<g ref="char:EOLhyphen"/>dinary, as drinking in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le-houſes and Taverns: then in our private rooms, we have the picture of the Italian padlock, <hi>Peter Aretines</hi> poſtures curiouſly painted, with ſeveral beautiful pictures ſtark-naked (not ſuch Landskips as P — in C — at <hi>Priſs Fotheringhams</hi>) one holding a Chamber-pot betwixt her Legs, another ſtriving might and main to enlarge the Orifice of her Myſrerium magnum that unfathomed bottom, a third laughing at the large pair of cheeks and haunches ſhe hath got, a fourth pointing at one that hath loſt the hair
+<pb n="14" facs="tcp:168987:8"/>off her Whib-bob, and inſtead thereof hath a huge black beard for her ſtrummulo or merkin, and if any of our wanton Girles catch the Neaploitan diſeaſe, 'tis a conſtant cuſtom to ſend them to the Hoſpitals appoin<g ref="char:EOLhyphen"/>ted where they are clarified before they enter upon any new engagement by our Chyrurgeons.</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Your account is very conciſe and com<g ref="char:EOLhyphen"/>plete, I hear <hi>Francion</hi> call, (after his knocking) 'tis ſure<g ref="char:EOLhyphen"/>ly for the Reckoning.</p>
+               </sp>
+               <sp>
+                  <speaker>Francion.</speaker>
+                  <p>There's ten p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eces to cleer all charges and expences, does it pleaſe old Matron?</p>
+               </sp>
+               <sp>
+                  <speaker>Magdalena.</speaker>
+                  <p>Moſt noble <hi>Francion,</hi> moſt heartily welcom, the moſt welcome gueſt in the whole world, what can be graſp't within my power, ſhall truckle at your command, for I am your devoted ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vant.</p>
+               </sp>
+               <sp>
+                  <speaker>Julietta.</speaker>
+                  <p>Ah marry Siſters! this is none of your pit<g ref="char:EOLhyphen"/>tiful Sneakesbyes and Raskalls that will offer a ſtudy C—but eighteen pence or two ſhillings, and repent of the buſineſs afterwards</p>
+               </sp>
+               <sp>
+                  <speaker>Guſman.</speaker>
+                  <p>He came in ſeaſon, his mony is in ſeaſon. <hi>Quod omnium rerum eſt primum,</hi> I onely wiſh the next days account may end, with ſo welcome a Concluſion as this.</p>
+               </sp>
+            </div>
+            <trailer>Second Days Action.</trailer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:168987:8"/>
+            <head>An Advertiſement.</head>
+            <p>
+               <hi>VVHereas ſeveral of the perſons concerned in the following Dia<g ref="char:EOLhyphen"/>logues, have threatned the Publiſher hereof, and offered large Sums for his Apprehenſion, fearing the diſcovery of their bold and impudent practiſes and Cheatings; Let all perſons know the de<g ref="char:EOLhyphen"/>ſign and intent hereof, is to rou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe Ca<g ref="char:EOLhyphen"/>terpillers, and to give the Magiſtrate no<g ref="char:EOLhyphen"/>tice of the vileneſs and wickedneſs of their Actions, hoping a ſevere and ſtrict Obſervance will be taken for their ſup<g ref="char:EOLhyphen"/>preſsion.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
